@@ -1,4 +1,5 @@
 {
+  "private": false,
   "name": "@zegal/eslint-config-node",
   "version": "1.0.0",
   "description": "ES Lint config for our node apps",
