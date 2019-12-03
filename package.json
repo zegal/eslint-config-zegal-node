@@ -1,0 +1,21 @@
+{
+  "name": "@zegal/eslint-config-node",
+  "version": "1.0.0",
+  "description": "ES Lint config for our node apps",
+  "author": "Kiran Kumar Chaudhary <hellokiran2020@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/zegal/eslint-config-zegal-node.git"
+  },
+  "keywords": [
+    "zegal",
+    "node",
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "license": "MIT"
+}
