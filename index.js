@@ -29,8 +29,8 @@ module.exports = {
 				"allow": ["warn", "error"]
       }
 		],
-		'no-duplicate-imports': [
-			'error'
+		"no-duplicate-imports": [
+			"error"
 		],
     "no-multi-spaces": "error",
     "no-return-await": "error",
